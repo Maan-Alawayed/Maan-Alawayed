@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Portfolio Website",
+    "desc": "Persönliche Portfolio Sie brauchen keine mehr Infos weil Sie schon drauf sind!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "##"
+    }
+  },
+  {
+    "name": "Schere Stein Papier Spiel",
+    "desc": "Das Schere-Stein-Papier-Spiel ist weit verbreitet, aber ich habe es online umgewandelt, um es auch mit dem Computer zu spielen, inklusive Animationen.",
+    "image": "Schere Stein Papier",
+    "category": "game",
+    "links": {
+      "view": "https://schere-papier.netlify.app/",
+      "code": ""
+    }
+  },
+  {
+    "name": "QR-Qode Generator",
+    "desc": "Es gibt zahlreiche QR-Code-Generatoren, aber das Problem ist, dass sie entweder kostenpflichtig sind oder nur temporär genutzt werden können.",
+    "image": "QrCode",
+    "category": "basicweb",
+    "links": {
+      "view": "https://qrc0de-generat0r.netlify.app/",
+      "code": ""
+    }
+  },
+  {
+    "name": "Taschenrechner",
+    "desc": "Taschenrechner sind oft langweilig im Design. Daher habe ich sie als mein erstes Anfängerprojekt verbessert.",
+    "image": "Taschenrechner",
+    "category": "basicweb",
+    "links": {
+      "view": "https://tasohenrechner.netlify.app/",
+      "code": ""
+    }
+  },
+  {
+    "name": "Password Generator",
+    "desc": "Jeder hat sein eigenes Passwort, aber manche sind nicht ausreichend sicher. Deshalb habe ich diesen Passwortgenerator programmiert.",
+    "image": "Password",
+    "category": "basicweb",
+    "links": {
+      "view": "https://passsw0rd-generat0r.netlify.app/",
+      "code": ""
+    }
+  },
+  {
+    "name": "Memory Spiel",
+    "desc": "Memory-Spiele sind üblich als physische Kartenspiele und Apps, aber seltener als Websites verfügbar. Dieses Spiel ist schwer, weil die Figuren sich ähnlich sehen.",
+    "image": "Memory",
+    "category": "game",
+    "links": {
+      "view": "https://mem0ryy.netlify.app/",
+      "code": ""
+    }
+  },
+  {
+    "name": "Schnell schreiben",
+    "desc": "Eine Website zur Messung deiner Tippgeschwindigkeit zeigt sinnlose Texte.",
+    "image": "Typing test",
+    "category": "basicweb",
+    "links": {
+      "view": "https://type-quick.netlify.app/",
+      "code": ""
+    }
+  },
+  {
+    "name": "Hangman",
+    "desc": "Es gibt viele Hangman-Spiele, aber Online-Versionen auf Englisch sind selten, daher habe ich eins erstellt.",
+    "image": "Hangman",
+    "category": "game",
+    "links": {
+      "view": "https://h0ngm0n.netlify.app/",
+      "code": ""
+    }
+  },
+  {
+    "name": "Coming Soon",
+    "desc": "Dieses Projekt befindet sich noch in der Ideenphase und wird bald veröffentlicht. 'Coming Soon'.    ",
+    "image": "C",
+    "category": "",
+    "links": {
+    "view":"#"
+    }
+  }
+]
